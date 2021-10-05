@@ -122,15 +122,15 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static-cdn')
+STATIC_ROOT = BASE_DIR, 'static-cdn'
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'web/static')
+    BASE_DIR, 'web/static'
 ]
 
 
 # Media Files
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_ROOT = BASE_DIR, 'media'
 MEDIA_URL = '/media/'
 
 # Crispy Settings
