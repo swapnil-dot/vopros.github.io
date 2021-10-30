@@ -1,5 +1,3 @@
-## VOPROS BLOGGING WEBSITE
-# MICRO BLOGGING WEBSITE by 
-  <a href="" target="_blank" >
-    <img src="https://github.com/swapnil-dot"  height="200" />
-  </a> 
+# VOPROS BLOGGING WEBSITE
+## MICRO BLOGGING WEBSITE by 
+  <a href="https://github.com/swapnil-dot" target="_blank" >SWAPNIL BHAIYAJI </a> 
