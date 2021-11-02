@@ -3,6 +3,7 @@
 ## MICRO BLOGGING WEBSITE by 
 
 <img src="https://img.shields.io/hexpm/l/plug?color=green&label=Licence&logo=code%20approved&logoColor=blue&style=plastic"  height="20" />
+<img src="https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku?style=for-the-badge"  height="20" />
 
 
 
